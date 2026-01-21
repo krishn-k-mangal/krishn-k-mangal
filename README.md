@@ -38,10 +38,10 @@
 
 ### 🌐 Web (for UI & Projects)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css, flask" />
 </p>
 
-- HTML, CSS (for dashboards & apps)
+- HTML, CSS (for dashboards & apps), FLASK
 
 ### ⚙️ Tools & Database
 <p>
